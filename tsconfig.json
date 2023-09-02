@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "jsx": "react",
-    "types": ["jest", "testing-library__jest-dom"],
+    "types": ["jest", "testing-library__jest-dom",],
+    
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
     /* Projects */

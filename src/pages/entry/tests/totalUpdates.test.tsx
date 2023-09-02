@@ -1,6 +1,6 @@
-import { render, screen } from "../../../test-utils/testing-library-utils";
+import { render, screen } from '../../../test-utils/testing-library-utils'
 import userEvent from "@testing-library/user-event";
-import Options from '../Options'
+import Options from "../Options";
 import OrderEntry from '../OrderEntry'
 import { expect,test,describe } from '@jest/globals'
 import '@testing-library/jest-dom/extend-expect';
